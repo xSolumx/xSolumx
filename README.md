@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-blueviolet?logo=google-chrome&style=flat)](https://xsolumx.github.io/)  
 [![GitHub](https://img.shields.io/badge/GitHub-xSolumx-black?logo=github&style=flat)](https://github.com/xSolumx)
 
----
+### -<>---<>--------------------<>---<>-
 
 ### :: 🧠 About Me ::
 
@@ -25,7 +25,7 @@ I approach software through the lens of **systems thinking**—balancing practic
 :scroll: Clean, extensible, well-documented code  
 :globe_with_meridians: Understanding how software, data & infrastructure fit together  
 
----
+### -<>---<>--------------------<>---<>-
 
 ### :: 🛠️ Tech Stack ::
 
@@ -33,13 +33,13 @@ I approach software through the lens of **systems thinking**—balancing practic
 `Python` • `JavaScript (ES6+)` • `C#` • `C++` • `Java`  
 
 **Frontend**:  
-`React` • `SASS` • `HTML5` • `CSS3`
+`React` • `SASS` • `HTML5` • `CSS`
 
 **Backend & Tooling**:  
 `Node.js` • `Jenkins` • `Firebase` • `Python scripting`
 
 **Frameworks/Platforms**:  
-`Windows Presentation Foundation (WPF)` • `CI/CD pipelines` • `REST APIs`
+`Windows Presentation Foundation (WPF)` • `CI/CD pipelines` • `REST APIs` 
 
 **Current Focus**:  
 :: Developing local-first AI tooling and LLM chains  
@@ -79,7 +79,7 @@ Here are some of my more interesting or representative repositories:
 
 ---
 
-### ---<>---
+### -<>---<>--------------------<>---<>-
 
 > *“The greatest achievements are born from relentless curiosity and consistent experimentation.”*
 
