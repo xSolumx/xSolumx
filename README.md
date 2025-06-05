@@ -117,8 +117,8 @@ passions:
 class CurrentWork:
     def __init__(self):
         self.focus_areas = {
-            "ai_development": "Building local-first AI tooling and LLM chains",
-            "full_stack": "End-to-end development with modern databases (MongoDB, SQL)",
+            "ai_development": "Building local-first containerized AI tooling and LLM chains",
+            "full_stack": "End-to-end development with modern databases (MongoDB, SQL, FireStore)",
             "visual_design": "Creating compelling UX with Photoshop and 3D modeling", 
             "data_architecture": "Designing scalable NoSQL and relational database systems",
             "dev_experience": "Automating workflows and improving developer tooling"
