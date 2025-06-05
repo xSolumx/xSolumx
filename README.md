@@ -8,7 +8,7 @@
 
 ---
 
-### -<>---<>--------------------<>---<>-
+### -<>---<>------------------------------------------------------------<>---<>-
 
 ### :: 🧠 About Me ::
 
@@ -29,7 +29,7 @@ I approach software through the lens of **systems thinking**—balancing practic
 
 ---
 
-### -<>---<>--------------------<>---<>-
+### -<>---<>------------------------------------------------------------<>---<>-
 
 ### :: 🛠️ Tech Stack ::
 
@@ -52,6 +52,8 @@ I approach software through the lens of **systems thinking**—balancing practic
 
 ---
 
+### -<>---<>------------------------------------------------------------<>---<>-
+
 ### :: 📈 GitHub Stats ::
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xSolumx&show_icons=true&theme=tokyonight)
@@ -61,6 +63,8 @@ I approach software through the lens of **systems thinking**—balancing practic
 ![GitHub Streak](https://streak-stats.demolab.com/?user=xSolumx&theme=tokyonight)
 
 ---
+
+### -<>---<>------------------------------------------------------------<>---<>-
 
 ### :: 🚀 Featured Projects ::
 
@@ -74,6 +78,8 @@ Here are some of my more interesting or representative repositories:
 
 ---
 
+### -<>---<>------------------------------------------------------------<>---<>-
+
 ### :: 📫 Contact Me ::
 
 - **Email**: haydaust@gmail.com  
@@ -82,8 +88,6 @@ Here are some of my more interesting or representative repositories:
 - **Portfolio**: [xsolumx.github.io](https://xsolumx.github.io/)
 
 ---
-
-### -<>---<>--------------------<>---<>-
 
 > *“The greatest achievements are born from relentless curiosity and consistent experimentation.”*
 
