@@ -31,30 +31,30 @@ I'm a **final-year Computer Software Engineering student** at **Belgium Campus**
 - 🔧 **Systems Architecture** - Designing maintainable, performant solutions
 
 **💭 My Philosophy:**
-> I approach software development through **systems thinking** - balancing practical performance, meticulous UX design, and long-term maintainability to create solutions that truly matter.
+> I approach software development through **systems thinking** - balancing practical performance, meticulous UX design, and long-term maintainability. From **database architecture** to **visual storytelling** with creative tools, I believe great software emerges from the intersection of technical excellence and human-centered design.
 
 ### **What Drives Me:**
 ```yaml
 passions:
-  - name: "Intuitive Design"
-    icon: "🎨"
-    description: "Crafting user interfaces that feel natural and delightful"
+  - name: "Full-Stack Architecture"
+    icon: "🏗️"
+    description: "Building end-to-end solutions from databases to user interfaces"
   
   - name: "AI & Machine Learning"
     icon: "🧠"
     description: "Building intelligent systems and local inference pipelines"
   
-  - name: "Systems Architecture" 
-    icon: "⚙️"
-    description: "Designing scalable, maintainable software ecosystems"
+  - name: "Visual Design & 3D"
+    icon: "🎨"
+    description: "Crafting compelling visuals with Photoshop, Blender, and UI design"
   
-  - name: "Clean Code"
-    icon: "📜"
-    description: "Writing extensible, well-documented, and readable code"
+  - name: "Data Architecture"
+    icon: "🗄️" 
+    description: "Designing efficient database systems with SQL, NoSQL, and MongoDB"
     
-  - name: "Full-Stack Thinking"
+  - name: "Systems Integration"
     icon: "🌐" 
-    description: "Understanding how software, data, and infrastructure interconnect"
+    description: "Connecting diverse technologies into cohesive, scalable solutions"
 ```
 
 ---
@@ -89,6 +89,21 @@ passions:
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"/>
 </p>
 
+### **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/NoSQL-FF6B6B?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL"/>
+</p>
+
+### **Design & Creative Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
 ### **Frameworks & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF"/>
@@ -103,13 +118,19 @@ class CurrentWork:
     def __init__(self):
         self.focus_areas = {
             "ai_development": "Building local-first AI tooling and LLM chains",
-            "web_architecture": "Creating modular, high-performance applications", 
-            "dev_experience": "Automating workflows and improving developer tooling",
-            "systems_design": "Architecting scalable, maintainable solutions"
+            "full_stack": "End-to-end development with modern databases (MongoDB, SQL)",
+            "visual_design": "Creating compelling UX with Photoshop and 3D modeling", 
+            "data_architecture": "Designing scalable NoSQL and relational database systems",
+            "dev_experience": "Automating workflows and improving developer tooling"
         }
     
     def get_passion_projects(self):
-        return ["Local LLM inference", "AI workflow automation", "Modern web UX"]
+        return [
+            "Local LLM inference", 
+            "Modern web applications with MongoDB",
+            "3D visualizations with Blender",
+            "AI-powered creative tools"
+        ]
 ```
 
 ---
