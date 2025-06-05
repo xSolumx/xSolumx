@@ -127,7 +127,7 @@ class CurrentWork:
     def get_passion_projects(self):
         return [
             "Local LLM inference", 
-            "Modern web applications with MongoDB",
+            "Modern web applications with React and Firebase",
             "3D visualizations with Blender",
             "AI-powered creative tools"
         ]
@@ -158,7 +158,7 @@ class CurrentWork:
 |---------|-------------|------------|--------|
 | **[🧱 AdditionalBlocks](https://github.com/xSolumx/AdditionalBlocks)** | Custom block behavior exploration in Java | `Java` | ![Status](https://img.shields.io/badge/Status-Active-brightgreen) |
 | **[💼 CV Website](https://github.com/xSolumx/CV_Website)** | Personal portfolio & static website | `HTML` `CSS` `JavaScript` | ![Status](https://img.shields.io/badge/Status-Live-blue) |
-| **[⚔️ Rebel Items](https://github.com/xSolumx/Rebel-Items)** | Java-based item management system | `Java` | ![Status](https://img.shields.io/badge/Status-Complete-success) |
+| **[⚔️ Rebel Items](https://github.com/xSolumx/Rebel-Items)** | Java-based game item management system | `Java` | ![Status](https://img.shields.io/badge/Status-Experimental-orange) |
 | **[🐾 MLG Animal Classifier](https://github.com/xSolumx/MLG-10-Animals)** | Machine learning animal classification | `Python` `ML` | ![Status](https://img.shields.io/badge/Status-Experimental-orange) |
 | **[📊 Single-Prop ML](https://github.com/xSolumx/Single-Prop-ML)** | Focused ML project using single variables | `Python` `Data Science` | ![Status](https://img.shields.io/badge/Status-Research-blueviolet) |
 
