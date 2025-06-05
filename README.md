@@ -6,6 +6,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-blueviolet?logo=google-chrome&style=flat)](https://xsolumx.github.io/)  
 [![GitHub](https://img.shields.io/badge/GitHub-xSolumx-black?logo=github&style=flat)](https://github.com/xSolumx)
 
+---
+
 ### -<>---<>--------------------<>---<>-
 
 ### :: 🧠 About Me ::
@@ -24,6 +26,8 @@ I approach software through the lens of **systems thinking**—balancing practic
 :gear: Systems programming & architecture  
 :scroll: Clean, extensible, well-documented code  
 :globe_with_meridians: Understanding how software, data & infrastructure fit together  
+
+---
 
 ### -<>---<>--------------------<>---<>-
 
