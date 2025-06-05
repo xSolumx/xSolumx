@@ -52,7 +52,6 @@ I’m especially passionate about:
 Here are some of my notable repositories:
 
 - [AdditionalBlocks](https://github.com/xSolumx/AdditionalBlocks): A Java-based project exploring additional block functionalities.
-- [Prg-2782-Project-1](https://github.com/xSolumx/Prg-2782-Project-1): A C# project developed during my coursework.
 - [CV_Website](https://github.com/xSolumx/CV_Website): My personal CV website built with HTML.
 - [Rebel-Items](https://github.com/xSolumx/Rebel-Items): A Java project focusing on item management.
 - [MLG-10-Animals](https://github.com/xSolumx/MLG-10-Animals): A Jupyter Notebook project experimenting with machine learning models.
@@ -65,7 +64,7 @@ Here are some of my notable repositories:
 - **Email**: haydaust@gmail.com  
 - **GitHub**: [xSolumx](https://github.com/xSolumx)  
 - **LinkedIn**: [linkedin.com/in/hayden-austin-38300226a](https://www.linkedin.com/in/hayden-austin-38300226a)  
-- **Portfolio**: [hayden-austin-portfolio.web.app](https://hayden-austin-portfolio.web.app/index.html)
+- **Portfolio**: [hayden-Austin-Portfolio](https://github.com/xSolumx)
 
 ---
 
