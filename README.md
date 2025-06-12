@@ -156,9 +156,9 @@ class CurrentWork:
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[🧱 AdditionalBlocks](https://github.com/xSolumx/AdditionalBlocks)** | Custom block behavior exploration in Java | `Java` | ![Status](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **[🧱 AdditionalBlocks](https://github.com/xSolumx/AdditionalBlocks)** | Custom block behavior exploration in Java | `Java` | ![Status](https://img.shields.io/badge/Status-DeadInTheWater-brightgreen) |
 | **[💼 CV Website](https://github.com/xSolumx/CV_Website)** | Personal portfolio & static website | `HTML` `CSS` `JavaScript` | ![Status](https://img.shields.io/badge/Status-Live-blue) |
-| **[⚔️ Rebel Items](https://github.com/xSolumx/Rebel-Items)** | Java-based game item management system | `Java` | ![Status](https://img.shields.io/badge/Status-Experimental-orange) |
+| **[⚔️ Rebel Items](https://github.com/xSolumx/Rebel-Items)** | Java-based game item management system | `Java` | ![Status](https://img.shields.io/badge/Status-ExperimentalOutdated-orange) |
 | **[🐾 MLG Animal Classifier](https://github.com/xSolumx/MLG-10-Animals)** | Machine learning animal classification | `Python` `ML` | ![Status](https://img.shields.io/badge/Status-Experimental-orange) |
 | **[📊 Single-Prop ML](https://github.com/xSolumx/Single-Prop-ML)** | Focused ML project using single variables | `Python` `Data Science` | ![Status](https://img.shields.io/badge/Status-Research-blueviolet) |
 
