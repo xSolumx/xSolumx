@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Software Engineer | Web Developer | LLM Chain Developer
+### 🚀 Software Engineer | Web Developer
 ### 🎓 Software Engineering
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;LLM+chains+%26+AI+tooling;Full-stack+web+development;Systems+thinking+approach" alt="Typing SVG" />
