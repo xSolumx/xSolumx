@@ -1,13 +1,13 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="35" height="35" /> Hi there, I'm **Hayden Austin** 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="35" height="35" /> Hi there, I'm **Hayden** 
 
 <div align="center">
 
 ### 🚀 Software Engineer | Web Developer | LLM Chain Developer
-### 🎓 Final-Year Computer Software Engineering Student
+### 🎓 Software Engineering
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;LLM+chains+%26+AI+tooling;Full-stack+web+development;Systems+thinking+approach" alt="Typing SVG" />
 
-📍 **Pretoria, Gauteng, South Africa**
+📍 **South Africa**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-austin-38300226a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xsolumx.github.io/)
@@ -21,8 +21,6 @@
 ## **About Me**
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-I'm a **final-year Computer Software Engineering student** at **Belgium Campus**, passionate about creating intelligent systems and crafting exceptional user experiences.
 
 **🎯 Current Focus Areas:**
 - 🤖 **LLM Chains & AI Tooling** - Building sophisticated AI workflows with Python
