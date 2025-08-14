@@ -142,23 +142,10 @@ passions:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="25" height="25" /> **Let's Connect**
-
 <div align="center">
 
-```typescript
-const contact = {
-  email: "haydaust@gmail.com",
-  github: "xSolumx", 
-  linkedin: "hayden-austin-38300226a",
-  portfolio: "xsolumx.github.io",
-  location: "Pretoria, South Africa",
-  availability: "Open to collaborations & opportunities"
-}
-```
-
 **📬 I'm always interested in:**
-- 🤝 **Open Source Collaborations**
+- 🤝 **Open Collaborations**
 - 🚀 **Innovative AI Projects** 
 - 💼 **Software Engineering Opportunities**
 - 🌱 **Learning & Knowledge Sharing**
