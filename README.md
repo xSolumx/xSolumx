@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="35" height="35" /> Hi there, I'm **Hayden** 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="35" height="35" /> Hello.** 
 
 <div align="center">
 
@@ -22,11 +22,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-**🎯 Current Focus Areas:**
-- 🤖 **LLM Chains & AI Tooling** - Building sophisticated AI workflows with Python
-- 🌐 **Full-Stack Development** - Architecting scalable web applications 
-- ⚡ **Local AI Infrastructure** - Running and optimizing models on local hardware
-- 🔧 **Systems Architecture** - Designing maintainable, performant solutions
+**🎯 Current Personal Focus Areas:**
+- 🤖 **Machine Learning & AI Tooling** - Building language and vision models, creating agentic workflows for my own uses.
+- 🌐 **Full-Stack Development** - Building scalable web applications. Experieinced in modern web dev stacks. 
+- ⚡ **Local AI Infrastructure** - Running and optimizing models on local hardware. Building custom models, Experimenting  with, and Training new models
 
 **💭 My Philosophy:**
 > I approach software development through **systems thinking** - balancing practical performance, meticulous UX design, and long-term maintainability. From **database architecture** to **visual storytelling** with creative tools, I believe great software emerges from the intersection of technical excellence and human-centered design.
@@ -42,13 +41,13 @@ passions:
     icon: "🧠"
     description: "Building intelligent systems and local inference pipelines"
   
-  - name: "Visual Design & 3D"
+  - name: "Visual Design"
     icon: "🎨"
-    description: "Crafting compelling visuals with Photoshop, Blender, and UI design"
+    description: "Crafting compelling visuals with Photoshop, Blender, and just... design"
   
   - name: "Data Architecture"
     icon: "🗄️" 
-    description: "Designing efficient database systems with SQL, NoSQL, and MongoDB"
+    description: "Designing efficient database systems with SQL, NoSQL, and MongoDB,"
     
   - name: "Systems Integration"
     icon: "🌐" 
@@ -109,27 +108,6 @@ passions:
 </p>
 
 </details>
-
-### **🎯 Current Focus Areas**
-```python
-class CurrentWork:
-    def __init__(self):
-        self.focus_areas = {
-            "ai_development": "Building local-first containerized AI tooling and LLM chains",
-            "full_stack": "End-to-end development with modern databases (MongoDB, SQL, FireStore)",
-            "visual_design": "Creating compelling UX with Photoshop and 3D modeling", 
-            "data_architecture": "Designing scalable NoSQL and relational database systems",
-            "dev_experience": "Automating workflows and improving developer tooling"
-        }
-    
-    def get_passion_projects(self):
-        return [
-            "Local LLM inference", 
-            "Modern web applications with React and Firebase",
-            "3D visualizations with Blender",
-            "AI-powered creative tools"
-        ]
-```
 
 ---
 
